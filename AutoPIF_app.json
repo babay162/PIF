@@ -3,8 +3,8 @@
   "version": 02,
   "message": "",
   "version_desc": "Update Keybox & Fingerprint for Pixel 10 pro",
-  "keybox_url": "https://raw.githubusercontent.com/babay162/PIF/069b6b8f6800cbffac1c752d30dcdef5a4910af0/release/keybox.xml",
-  "fingerprint_url": "https://raw.githubusercontent.com/babay162/PIF/069b6b8f6800cbffac1c752d30dcdef5a4910af0/release/fingerprint.xml",
+  "keybox_url": "https://raw.githubusercontent.com/babay162/PIF/refs/heads/main/release/keybox.xml",
+  "fingerprint_url": "https://raw.githubusercontent.com/babay162/PIF/refs/heads/main/release/fingerprint.xml",
 "service_enabled": true,
   "message_dialog": "☠️☠️☠️☠️"
 }
