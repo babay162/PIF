@@ -1,7 +1,7 @@
 {
   "date": "2026-04-08",
-  "version": 02,
-  "message": "",
+  "version": 03,
+  "message": "better lock your bootloader🫠",
   "version_desc": "Update Keybox & Fingerprint for Pixel 10 pro",
   "keybox_url": "https://raw.githubusercontent.com/babay162/PIF/refs/heads/main/release/keybox.xml",
   "fingerprint_url": "https://raw.githubusercontent.com/babay162/PIF/refs/heads/main/release/fingerprint.xml",
