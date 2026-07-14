@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-    <string name="product">blazer_beta</string>
+    <string name="product">mustang_beta</string>
     <string name="api_level"></string>
     <string name="release"></string>
-    <string name="security_patch">2026-06-05</string>
+    <string name="security_patch">2026-07-05</string>
     <string name="incremental"></string>
     <string name="type"></string>
     <string name="manufacturer">Google</string>
     <string name="tags"></string>
-    <string name="fingerprint">google/blazer_beta/blazer:CANARY/ZP11.260515.009/15513807:user/release-keys</string>
-    <string name="model">Pixel 10 Pro</string>
-    <string name="id"></string>
-    <string name="brand"></string>
-    <string name="device">blazer</string>
+    <string name="fingerprint">google/mustang_beta/mustang:CANARY/ZP11.260618.005/15760424:user/release-keys</string>
+    <string name="model">Pixel 10 Pro XL</string>
+    <string name="id">ZP11.260618.005</string>
+    <string name="brand">google</string>
+    <string name="device">mustang</string>
     <string name="spoofPhotos">true</string>
 </map>
